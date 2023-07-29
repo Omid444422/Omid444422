@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Mahdi</h1>
-<h3 align="center">Currently a computer engineering student, web developer (front end & backe end).</h3>
+<h3 align="center">Currently a computer engineering student, web developer (front end & back end).</h3>
 
 - 🌱 I’m currently learning **Vue Js & Laravel**
 
